@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Computer Science Student at Cairo University 👨‍💻 | I'm a passionate Data Science learner who's always willing to learn new things✨ | I love to explore new technologies and apply them in real life problems💡</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*VMmvImch6VU5pc2VktY1uw.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&lines=Welcome+To+My+Profile+%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=6000&width=600&lines=Welcome+To+My+Profile+%F0%9F%98%81)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefs4&label=Profile%20views&color=0e75b6&style=flat" alt="youssefs4" /> </p>
 
